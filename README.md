@@ -31,9 +31,7 @@
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**[your_project__name]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -150,7 +148,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@tajemouti](https://github.com/tajemouti)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 

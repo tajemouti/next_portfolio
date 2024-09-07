@@ -43,6 +43,13 @@
   </ul>
 </details>
 
+<details>
+  <summary>Styling</summary>
+  <ul>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+  </ul>
+</details>
+
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.

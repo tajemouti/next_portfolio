@@ -52,11 +52,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+**3D Project Showcase** : Projects are displayed with a dynamic 3D hover effect, enhancing user interaction and presentation using Framer Motion.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+**Floating Navbar** : A floating navigation bar allows smooth scrolling and easy access to different sections of the site.
+
+**Responsive Design** : The portfolio is fully responsive, ensuring a seamless experience across all devices and screen sizes using Tailwind CSS.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -140,11 +140,11 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 - GitHub: [@tajemouti](https://github.com/tajemouti)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@AjrassTajemouti](https://twitter.com/AjrassTajemouti)
+- LinkedIn: [ajrass](https://linkedin.com/in/ajrass)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

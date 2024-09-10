@@ -150,9 +150,11 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+**Dark Mode Toggle**: Add a dark/light mode switch to enhance user experience and provide theme customization.
+
+**Project Filtering**: Implement filtering options for projects by category or technology used.
+
+**Blog Integration**: Add a blog section to showcase articles and insights on development projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

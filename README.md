@@ -4,7 +4,7 @@
   <img src="./logo.svg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Ajrass Portfolio</b></h3>
+  <h3><b>Ajrass' Portfolio</b></h3>
 
 </div>
 
@@ -27,9 +27,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 next_portfolio <a name="about-project"></a>
+# 📖 Ajrass' Portfolio <a name="about-project"></a>
 
-**next_portfolio** is a personal portfolio website showcasing recent projects and skills using modern web technologies. It features interactive components like a 3D project display and smooth navigation with a floating navbar. Built with Next.js, Tailwind CSS, and Framer Motion, the site is fully responsive and provides an engaging user experience across devices.
+**Ajrass' Portfolio** is a personal portfolio website showcasing recent projects and skills using modern web technologies. It features interactive components like a 3D project display and smooth navigation with a floating navbar. Built with Next.js, Tailwind CSS, and Framer Motion, the site is fully responsive and provides an engaging user experience across devices.
 
 ## 🛠 Built With <a name="built-with"></a>
 

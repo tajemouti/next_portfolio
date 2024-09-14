@@ -33,6 +33,8 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
+Built with Next.js and TailwindCSS and Sentry.
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>

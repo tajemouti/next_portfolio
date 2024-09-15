@@ -4,7 +4,7 @@
   <img src="./logo.svg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Ajrass' Portfolio</b></h3>
+  <h1><b>Ajrass' Portfolio</b></h1>
 
 </div>
 
@@ -24,7 +24,6 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 # 📖 Ajrass' Portfolio <a name="about-project"></a>
@@ -134,12 +133,6 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, leave a star!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

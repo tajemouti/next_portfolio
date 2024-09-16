@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="" alt="logo" width="140"  height="auto" />
+  <img src="./logo.svg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h1><b>Ajrass' Portfolio</b></h1>
 
 </div>
 
@@ -20,63 +20,48 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Ajrass' Portfolio <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**Ajrass' Portfolio** is a personal portfolio website showcasing recent projects and skills using modern web technologies. It features interactive components like a 3D project display and smooth navigation with a floating navbar. Built with Next.js, Tailwind CSS, and Framer Motion, the site is fully responsive and provides an engaging user experience across devices.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+Built with Next.js and TailwindCSS and Sentry.
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://nextjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Styling</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+**3D Project Showcase** : Projects are displayed with a dynamic 3D hover effect, enhancing user interaction and presentation using Framer Motion.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+**Floating Navbar** : A floating navigation bar allows smooth scrolling and easy access to different sections of the site.
+
+**Responsive Design** : The portfolio is fully responsive, ensuring a seamless experience across all devices and screen sizes using Tailwind CSS.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
@@ -85,99 +70,57 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
 ```sh
  gem install rails
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/tajemouti/next_portfolio.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  npm install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  npm run dev
 ```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@tajemouti](https://github.com/tajemouti)
+- Twitter: [@AjrassTajemouti](https://twitter.com/AjrassTajemouti)
+- LinkedIn: [ajrass](https://linkedin.com/in/ajrass)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+**Dark Mode Toggle**: Add a dark/light mode switch to enhance user experience and provide theme customization.
+
+**Project Filtering**: Implement filtering options for projects by category or technology used.
+
+**Blog Integration**: Add a blog section to showcase articles and insights on development projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,13 +132,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank...
+If you like this project, leave a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

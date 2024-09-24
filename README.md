@@ -50,6 +50,13 @@ Built with Next.js and TailwindCSS and Sentry.
   </ul>
 </details>
 
+<details>
+  <summary>Monitoring & Feedback</summary>
+  <ul>
+    <li><a href="https://sentry.io/">Sentry</a></li>
+  </ul>
+</details>
+
 ### Key Features <a name="key-features"></a>
 
 **3D Project Showcase** : Projects are displayed with a dynamic 3D hover effect, enhancing user interaction and presentation using Framer Motion.

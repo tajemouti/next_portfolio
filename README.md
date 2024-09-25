@@ -81,11 +81,13 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+The prerequisites for portfolio project would include:
 
-```sh
- gem install rails
-```
+1. **Node.js** (version 16.x or later) - Required to run the Next.js application.
+2. **npm** or **yarn** - Package managers for installing dependencies.
+3. **Git** - Version control system for managing the project code.
+4. **A code editor** - Such as Visual Studio Code for editing and running the project locally.
+5. **Sentry account** - (optional, if using Sentry for monitoring) for configuring user feedback and error tracking.
 
 ### Setup
 

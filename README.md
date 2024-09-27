@@ -5,13 +5,7 @@
   <br/>
 
   <h1><b>Ajrass' Portfolio</b></h1>
-
-  <p>
-    <em>A portfolio for showcasing my professional projects, skills, and expertise.</em>
-  </p>
 </div>
-
----
 
 # 📗 Table of Contents
 

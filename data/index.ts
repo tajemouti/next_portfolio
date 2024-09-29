@@ -70,11 +70,11 @@ export const gridItems = [
 ];
 
 export const frontEnd = [
-  "ReactJS", "NextJS", "Typescript, Angular", "TailwindCSS", "Framer Motion"
+  "ReactJS", "NextJS", "Typescript"
 ];
 
 export const backEnd = [
-  "Ruby", "Rails", "PostgreSQL, NodeJS", "ExpressJS", "MongoDB"
+  "Ruby", "Rails", "PostgreSQL"
 ];
 
 export const projects = [

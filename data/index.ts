@@ -81,7 +81,7 @@ export const projects = [
   {
     id: 1,
     title: "Health Clinic",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "Explore our booking system with an intuitive interface that lets users log in, browse doctors, view details, reserve appointments, and manage doctor profiles. Designed for responsiveness, it delivers a seamless experience across devices, while connecting smoothly to a Rails back-end API for efficient operations.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://tajemouti-health-clinic.netlify.app/",

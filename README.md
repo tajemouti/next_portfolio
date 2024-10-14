@@ -4,7 +4,7 @@
   <img src="./logo.svg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h1><b>Ajrass' Portfolio</b></h1>
+  <h1><b>Ajrass Portfolio</b></h1>
 </div>
 
 # 📗 Table of Contents
@@ -29,7 +29,7 @@
 
 ---
 
-# 📖 Ajrass' Portfolio <a name="about-project"></a>
+# 📖 Ajrass Portfolio <a name="about-project"></a>
 
 **Ajrass' Portfolio** is a modern, responsive personal portfolio website. It showcases my recent projects, technologies, and expertise, aiming to provide a professional platform for prospective clients or employers. The portfolio includes an interactive 3D project display, smooth navigation with a floating navbar, and user feedback integration with Sentry. Built with **Next.js**, **Tailwind CSS**, and **Framer Motion**, the site delivers an engaging and user-friendly experience.
 

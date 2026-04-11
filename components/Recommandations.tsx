@@ -27,7 +27,7 @@ const Recommandations = () => {
         <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
           {companies.map((company) => (
             <React.Fragment key={company.id}>
-              <div className="flex md:max-w-60 max-w-32 gap-2">
+              {/* <div className="flex md:max-w-60 max-w-32 gap-2">
                 <Image
                   src={company.img}
                   alt={company.name}
@@ -39,7 +39,7 @@ const Recommandations = () => {
                   width={company.id === 4 || company.id === 5 ? 100 : 150}
                   className="md:w-24 w-20"
                 />
-              </div>
+              </div> */}
             </React.Fragment>
           ))}
         </div>
